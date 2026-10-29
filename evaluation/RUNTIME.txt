@@ -1,0 +1,8 @@
+Python: 3.12.14
+Platform: macOS-27.0.1-arm64-arm-64bit
+Machine: arm64
+Logical CPUs: 10
+Endpoint backend: CPU; Smart Turn ONNX intra/inter threads=1
+LiveKit native binary SHA256 is recorded in each run manifest.
+Smart development inference was sharded in three CPU processes; pilot inference is sequential per model.
+Audio-clock delay excludes computation; pilot model-call timings are reported separately.

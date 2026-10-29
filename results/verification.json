@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "verified_at": "2026-10-29",
+  "python": "3.12.14",
+  "tests": {
+    "passed": 100,
+    "command": "cd evaluation && python -m pytest -q"
+  },
+  "snapshot_replay": {
+    "pilot_audio_files": 160,
+    "hold_spans": 91,
+    "trace_files": 480,
+    "summary_rows": 6,
+    "per_turn_rows": 960,
+    "model_inference_used": false,
+    "network_used": false
+  },
+  "timer_smoke": {
+    "actual_pinned_silero_loaded": true,
+    "existing_hash_verified_trace_cache": true,
+    "pilot_turns": 160,
+    "budgets": [
+      0.05,
+      0.1
+    ],
+    "summary_rows_equal": 2,
+    "per_turn_rows_byte_equal": 320,
+    "policy_selection_performed": false,
+    "smart_turn_inference_rerun": false,
+    "livekit_mini_inference_rerun": false
+  }
+}

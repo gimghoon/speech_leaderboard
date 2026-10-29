@@ -1,0 +1,648 @@
+{
+  "format_version": "eot-first-stop-v1",
+  "model_name": "livekit-mini",
+  "split": "pilot",
+  "budget": 0.05,
+  "predictions": [
+    {
+      "id": "minds-ko-0003",
+      "first_eot_s": 6.272
+    },
+    {
+      "id": "minds-ko-0014",
+      "first_eot_s": 12.064
+    },
+    {
+      "id": "minds-ko-0016",
+      "first_eot_s": 6.496
+    },
+    {
+      "id": "minds-ko-0018",
+      "first_eot_s": 9.248
+    },
+    {
+      "id": "minds-ko-0022",
+      "first_eot_s": 4.608
+    },
+    {
+      "id": "minds-ko-0028",
+      "first_eot_s": 11.36
+    },
+    {
+      "id": "minds-ko-0030",
+      "first_eot_s": 5.824
+    },
+    {
+      "id": "minds-ko-0036",
+      "first_eot_s": 6.976
+    },
+    {
+      "id": "minds-ko-0041",
+      "first_eot_s": 5.984
+    },
+    {
+      "id": "minds-ko-0042",
+      "first_eot_s": 4.448
+    },
+    {
+      "id": "minds-ko-0044",
+      "first_eot_s": 4.736
+    },
+    {
+      "id": "minds-ko-0046",
+      "first_eot_s": 6.56
+    },
+    {
+      "id": "minds-ko-0056",
+      "first_eot_s": 5.376
+    },
+    {
+      "id": "minds-ko-0057",
+      "first_eot_s": 4.384
+    },
+    {
+      "id": "minds-ko-0062",
+      "first_eot_s": 4.448
+    },
+    {
+      "id": "minds-ko-0064",
+      "first_eot_s": 4.0
+    },
+    {
+      "id": "minds-ko-0065",
+      "first_eot_s": 4.544
+    },
+    {
+      "id": "minds-ko-0066",
+      "first_eot_s": 5.984
+    },
+    {
+      "id": "minds-ko-0070",
+      "first_eot_s": 2.848
+    },
+    {
+      "id": "minds-ko-0071",
+      "first_eot_s": 4.512
+    },
+    {
+      "id": "minds-ko-0073",
+      "first_eot_s": 4.256
+    },
+    {
+      "id": "minds-ko-0075",
+      "first_eot_s": 6.208
+    },
+    {
+      "id": "minds-ko-0077",
+      "first_eot_s": 4.992
+    },
+    {
+      "id": "minds-ko-0080",
+      "first_eot_s": 4.192
+    },
+    {
+      "id": "minds-ko-0084",
+      "first_eot_s": 5.824
+    },
+    {
+      "id": "minds-ko-0088",
+      "first_eot_s": 7.488
+    },
+    {
+      "id": "minds-ko-0089",
+      "first_eot_s": 3.904
+    },
+    {
+      "id": "minds-ko-0092",
+      "first_eot_s": 5.632
+    },
+    {
+      "id": "minds-ko-0096",
+      "first_eot_s": 7.552
+    },
+    {
+      "id": "minds-ko-0098",
+      "first_eot_s": 7.328
+    },
+    {
+      "id": "minds-ko-0109",
+      "first_eot_s": 6.592
+    },
+    {
+      "id": "minds-ko-0110",
+      "first_eot_s": 5.024
+    },
+    {
+      "id": "minds-ko-0111",
+      "first_eot_s": 4.768
+    },
+    {
+      "id": "minds-ko-0112",
+      "first_eot_s": 5.952
+    },
+    {
+      "id": "minds-ko-0116",
+      "first_eot_s": 5.856
+    },
+    {
+      "id": "minds-ko-0120",
+      "first_eot_s": 6.368
+    },
+    {
+      "id": "minds-ko-0127",
+      "first_eot_s": 5.76
+    },
+    {
+      "id": "minds-ko-0136",
+      "first_eot_s": 7.52
+    },
+    {
+      "id": "minds-ko-0139",
+      "first_eot_s": 5.6
+    },
+    {
+      "id": "minds-ko-0140",
+      "first_eot_s": 10.08
+    },
+    {
+      "id": "minds-ko-0142",
+      "first_eot_s": 4.736
+    },
+    {
+      "id": "minds-ko-0146",
+      "first_eot_s": 3.84
+    },
+    {
+      "id": "minds-ko-0156",
+      "first_eot_s": 5.632
+    },
+    {
+      "id": "minds-ko-0158",
+      "first_eot_s": 6.048
+    },
+    {
+      "id": "minds-ko-0162",
+      "first_eot_s": 5.12
+    },
+    {
+      "id": "minds-ko-0169",
+      "first_eot_s": 12.864
+    },
+    {
+      "id": "minds-ko-0172",
+      "first_eot_s": 3.744
+    },
+    {
+      "id": "minds-ko-0186",
+      "first_eot_s": 3.712
+    },
+    {
+      "id": "minds-ko-0193",
+      "first_eot_s": 6.528
+    },
+    {
+      "id": "minds-ko-0199",
+      "first_eot_s": 7.456
+    },
+    {
+      "id": "minds-ko-0202",
+      "first_eot_s": 11.424
+    },
+    {
+      "id": "minds-ko-0204",
+      "first_eot_s": 8.992
+    },
+    {
+      "id": "minds-ko-0208",
+      "first_eot_s": 4.736
+    },
+    {
+      "id": "minds-ko-0209",
+      "first_eot_s": 4.672
+    },
+    {
+      "id": "minds-ko-0211",
+      "first_eot_s": 7.36
+    },
+    {
+      "id": "minds-ko-0213",
+      "first_eot_s": 5.568
+    },
+    {
+      "id": "minds-ko-0216",
+      "first_eot_s": 4.576
+    },
+    {
+      "id": "minds-ko-0218",
+      "first_eot_s": 3.264
+    },
+    {
+      "id": "minds-ko-0237",
+      "first_eot_s": 6.432
+    },
+    {
+      "id": "minds-ko-0242",
+      "first_eot_s": 3.68
+    },
+    {
+      "id": "minds-ko-0243",
+      "first_eot_s": 6.944
+    },
+    {
+      "id": "minds-ko-0249",
+      "first_eot_s": 11.488
+    },
+    {
+      "id": "minds-ko-0256",
+      "first_eot_s": 5.888
+    },
+    {
+      "id": "minds-ko-0262",
+      "first_eot_s": 3.616
+    },
+    {
+      "id": "minds-ko-0263",
+      "first_eot_s": 4.288
+    },
+    {
+      "id": "minds-ko-0266",
+      "first_eot_s": 4.8
+    },
+    {
+      "id": "minds-ko-0269",
+      "first_eot_s": 4.864
+    },
+    {
+      "id": "minds-ko-0270",
+      "first_eot_s": 3.456
+    },
+    {
+      "id": "minds-ko-0276",
+      "first_eot_s": 4.512
+    },
+    {
+      "id": "minds-ko-0277",
+      "first_eot_s": 6.208
+    },
+    {
+      "id": "minds-ko-0278",
+      "first_eot_s": 5.056
+    },
+    {
+      "id": "minds-ko-0280",
+      "first_eot_s": 3.968
+    },
+    {
+      "id": "minds-ko-0281",
+      "first_eot_s": 5.504
+    },
+    {
+      "id": "minds-ko-0283",
+      "first_eot_s": 4.608
+    },
+    {
+      "id": "minds-ko-0284",
+      "first_eot_s": 6.208
+    },
+    {
+      "id": "minds-ko-0288",
+      "first_eot_s": 4.48
+    },
+    {
+      "id": "minds-ko-0289",
+      "first_eot_s": 10.016
+    },
+    {
+      "id": "minds-ko-0292",
+      "first_eot_s": 8.064
+    },
+    {
+      "id": "minds-ko-0293",
+      "first_eot_s": 5.44
+    },
+    {
+      "id": "minds-ko-0294",
+      "first_eot_s": 5.696
+    },
+    {
+      "id": "minds-ko-0296",
+      "first_eot_s": 4.256
+    },
+    {
+      "id": "minds-ko-0300",
+      "first_eot_s": 4.352
+    },
+    {
+      "id": "minds-ko-0302",
+      "first_eot_s": 4.864
+    },
+    {
+      "id": "minds-ko-0305",
+      "first_eot_s": 6.432
+    },
+    {
+      "id": "minds-ko-0308",
+      "first_eot_s": 3.392
+    },
+    {
+      "id": "minds-ko-0309",
+      "first_eot_s": 2.176
+    },
+    {
+      "id": "minds-ko-0313",
+      "first_eot_s": 6.016
+    },
+    {
+      "id": "minds-ko-0316",
+      "first_eot_s": 4.768
+    },
+    {
+      "id": "minds-ko-0318",
+      "first_eot_s": 8.288
+    },
+    {
+      "id": "minds-ko-0319",
+      "first_eot_s": 5.568
+    },
+    {
+      "id": "minds-ko-0322",
+      "first_eot_s": 7.872
+    },
+    {
+      "id": "minds-ko-0324",
+      "first_eot_s": 4.32
+    },
+    {
+      "id": "minds-ko-0325",
+      "first_eot_s": 4.672
+    },
+    {
+      "id": "minds-ko-0331",
+      "first_eot_s": 5.28
+    },
+    {
+      "id": "minds-ko-0337",
+      "first_eot_s": 8.096
+    },
+    {
+      "id": "minds-ko-0339",
+      "first_eot_s": 6.976
+    },
+    {
+      "id": "minds-ko-0343",
+      "first_eot_s": 5.28
+    },
+    {
+      "id": "minds-ko-0348",
+      "first_eot_s": 8.256
+    },
+    {
+      "id": "minds-ko-0354",
+      "first_eot_s": 6.272
+    },
+    {
+      "id": "minds-ko-0357",
+      "first_eot_s": 11.488
+    },
+    {
+      "id": "minds-ko-0358",
+      "first_eot_s": 4.64
+    },
+    {
+      "id": "minds-ko-0370",
+      "first_eot_s": 3.584
+    },
+    {
+      "id": "minds-ko-0376",
+      "first_eot_s": 6.176
+    },
+    {
+      "id": "minds-ko-0380",
+      "first_eot_s": 9.344
+    },
+    {
+      "id": "minds-ko-0382",
+      "first_eot_s": 14.176
+    },
+    {
+      "id": "minds-ko-0383",
+      "first_eot_s": 3.68
+    },
+    {
+      "id": "minds-ko-0391",
+      "first_eot_s": 5.728
+    },
+    {
+      "id": "minds-ko-0393",
+      "first_eot_s": 4.48
+    },
+    {
+      "id": "minds-ko-0396",
+      "first_eot_s": 8.256
+    },
+    {
+      "id": "minds-ko-0403",
+      "first_eot_s": 4.288
+    },
+    {
+      "id": "minds-ko-0404",
+      "first_eot_s": 5.152
+    },
+    {
+      "id": "minds-ko-0416",
+      "first_eot_s": 4.16
+    },
+    {
+      "id": "minds-ko-0423",
+      "first_eot_s": 3.84
+    },
+    {
+      "id": "minds-ko-0428",
+      "first_eot_s": 4.256
+    },
+    {
+      "id": "minds-ko-0429",
+      "first_eot_s": 4.0
+    },
+    {
+      "id": "minds-ko-0432",
+      "first_eot_s": 10.208
+    },
+    {
+      "id": "minds-ko-0433",
+      "first_eot_s": 4.128
+    },
+    {
+      "id": "minds-ko-0434",
+      "first_eot_s": 5.888
+    },
+    {
+      "id": "minds-ko-0436",
+      "first_eot_s": 4.288
+    },
+    {
+      "id": "minds-ko-0439",
+      "first_eot_s": 2.848
+    },
+    {
+      "id": "minds-ko-0441",
+      "first_eot_s": 7.232
+    },
+    {
+      "id": "minds-ko-0445",
+      "first_eot_s": 5.312
+    },
+    {
+      "id": "minds-ko-0447",
+      "first_eot_s": 4.448
+    },
+    {
+      "id": "minds-ko-0451",
+      "first_eot_s": 6.048
+    },
+    {
+      "id": "minds-ko-0455",
+      "first_eot_s": 4.48
+    },
+    {
+      "id": "minds-ko-0458",
+      "first_eot_s": 5.408
+    },
+    {
+      "id": "minds-ko-0459",
+      "first_eot_s": 3.936
+    },
+    {
+      "id": "minds-ko-0460",
+      "first_eot_s": 3.264
+    },
+    {
+      "id": "minds-ko-0462",
+      "first_eot_s": 4.96
+    },
+    {
+      "id": "minds-ko-0465",
+      "first_eot_s": 4.576
+    },
+    {
+      "id": "minds-ko-0469",
+      "first_eot_s": 8.768
+    },
+    {
+      "id": "minds-ko-0473",
+      "first_eot_s": 6.304
+    },
+    {
+      "id": "minds-ko-0479",
+      "first_eot_s": 3.104
+    },
+    {
+      "id": "minds-ko-0480",
+      "first_eot_s": 3.808
+    },
+    {
+      "id": "minds-ko-0488",
+      "first_eot_s": 6.048
+    },
+    {
+      "id": "minds-ko-0489",
+      "first_eot_s": 4.128
+    },
+    {
+      "id": "minds-ko-0491",
+      "first_eot_s": 6.272
+    },
+    {
+      "id": "minds-ko-0498",
+      "first_eot_s": 11.648
+    },
+    {
+      "id": "minds-ko-0502",
+      "first_eot_s": 15.04
+    },
+    {
+      "id": "minds-ko-0507",
+      "first_eot_s": 5.472
+    },
+    {
+      "id": "minds-ko-0514",
+      "first_eot_s": 5.76
+    },
+    {
+      "id": "minds-ko-0521",
+      "first_eot_s": 5.312
+    },
+    {
+      "id": "minds-ko-0523",
+      "first_eot_s": 4.512
+    },
+    {
+      "id": "minds-ko-0525",
+      "first_eot_s": 4.448
+    },
+    {
+      "id": "minds-ko-0538",
+      "first_eot_s": 19.68
+    },
+    {
+      "id": "minds-ko-0540",
+      "first_eot_s": 9.504
+    },
+    {
+      "id": "minds-ko-0542",
+      "first_eot_s": 3.648
+    },
+    {
+      "id": "minds-ko-0543",
+      "first_eot_s": 4.896
+    },
+    {
+      "id": "minds-ko-0546",
+      "first_eot_s": 4.768
+    },
+    {
+      "id": "minds-ko-0547",
+      "first_eot_s": 5.984
+    },
+    {
+      "id": "minds-ko-0550",
+      "first_eot_s": 13.312
+    },
+    {
+      "id": "minds-ko-0553",
+      "first_eot_s": 6.752
+    },
+    {
+      "id": "minds-ko-0558",
+      "first_eot_s": 7.808
+    },
+    {
+      "id": "minds-ko-0565",
+      "first_eot_s": 10.336
+    },
+    {
+      "id": "minds-ko-0566",
+      "first_eot_s": 5.344
+    },
+    {
+      "id": "minds-ko-0575",
+      "first_eot_s": 8.896
+    },
+    {
+      "id": "minds-ko-0578",
+      "first_eot_s": 9.6
+    },
+    {
+      "id": "minds-ko-0580",
+      "first_eot_s": 18.368
+    },
+    {
+      "id": "minds-ko-0585",
+      "first_eot_s": 7.776
+    },
+    {
+      "id": "minds-ko-0590",
+      "first_eot_s": 13.792
+    }
+  ]
+}

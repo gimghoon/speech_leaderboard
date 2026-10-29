@@ -1,0 +1,37 @@
+{
+  "description_ko": "원본 데이터·소스·결과는 보존하고 저장소 사본의 개인 절대경로만 비식별화했습니다. frozen_policies의 정책·개발 지표·해시 값은 그대로이며 개발 trace 경로만 상대 설명 경로로 바꿨습니다. 원본 summary의 frozen SHA는 변경 전 파일을 가리킵니다.",
+  "original_file_sha256": {
+    "manifest.json": "6e837f5ed9ae6624cc7ae87639d6607041d63604c273ac3014b566d59bf65922",
+    "frozen_policies.json": "1a5d53ceae667e985009b10b05c580cc427444942c663eb20577d4f28c62d6f3",
+    "data/manifest.json": "42e50e0c00109ac898e304806be0c183912f54bfff3dc67c40e054e92620903f",
+    "summary.json": "1a37f059e9a3ff34cd949e7450bf278f68300865aec42b3d443c25c1c371884c",
+    "summary.csv": "5b7b5d56e4e82b3740c2bbc26c70a07de7c756abccd15ff861aaadb591fc9f45",
+    "data.json": "2bacc83ae3eb396267ff2af4982f1e66eb3301e0a0cf0b050425664470338a40",
+    "report.txt": "60568bd003ab8f63b45187300ace81b9a65cfb4762c9df5f2ec51d0df6851fd7"
+  },
+  "portable_files_sha256": {
+    "results/frozen_policies.json": "42d10b3e3bb09b75c9f23098780a9a7bd38196186a01548873ef35eaae2194c5",
+    "results/original_run_manifest.json": "5d45e365bfd2651afbeb6a57cf3c5a7c90c3860be71d97d87187c0ba28d6d881",
+    "data/pilot/manifest.json": "a35547c5626d7439fd27edcdead89ad38cf363604165f3a66c2502300cf469de"
+  },
+  "unbundled": "개발 데이터 음원/개발 trace, 전체 342개 선별 원본과 언어 판별 원시 근거는 포함하지 않습니다. pilot 주석 안의 evidence 경로는 당시 상위 패키지 참조입니다.",
+  "source_code_sha256": {
+    "eot_stream/__init__.py": "4664a0095c4960cda6c6523383581357acb2313c9788e1e4316eeb0f8d1f603e",
+    "eot_stream/cache.py": "3df19b32bbe6cddbdfedca47806f8a360dca517b4f6d329a985c7e3c2ee0a04a",
+    "eot_stream/cli.py": "d70d037477117d86152ad1e98491a43c302a9fdd148b5cd3c920bc80236b2299",
+    "eot_stream/data.py": "d1324fa66cd2b832cfe62647cac587d33bd366c41f967fb40c5c4812a022c3fb",
+    "eot_stream/livekit_data.py": "763ac73027e1c4b5aad68e504e9cd642fcab923965686c6ed1e056ca66456f21",
+    "eot_stream/models.py": "2ea4fa746205a9e906ef681bb5975a41af194be96f87341bbe4c0f9eb9f15d0f",
+    "eot_stream/policy.py": "362ae5170545505fc1649ab55a3fa329952b76a3638dd1158002144772f75cdd",
+    "eot_stream/report.py": "e96de72f5b62427452c361e6ac6a129d1778404ffd2e99c61b762e89c2f50547",
+    "eot_stream/stream.py": "22d1dba0e60bfd9da7c0915ac614729f1753b08cd67ee8754e1cdb4e8d30d641",
+    "pyproject.toml": "626a3699132e5e2c83a408b687016ecf1fc99a1e937ece68f58a08c2308a4788",
+    "requirements-run.txt": "d98b7419a539bd47f714d2017ecbbe6a45456e02dddbde8c25136de4d29aa05b",
+    "tests/test_cache.py": "a19add6102663e3b7c3f6967d8802d738b1bee1a221ca5d985aef77794dc71a7",
+    "tests/test_cli.py": "9d313e3e331b19a52e8b6b52dbbff9d3fb9a354862a53eeb6518e0b6570a64b3",
+    "tests/test_data.py": "1e66dd7343053c0a45495806779e5d34a0e9088c7a072b3a65eba7a4d833b1a6",
+    "tests/test_models.py": "02a52e8809293da837925026a979edfc68d329c7683d6f87ab4f4580ba5ff8df",
+    "tests/test_policy.py": "665593f087062bde5edcb52f4065f7dd37fb3a46d9595457361cd57b8bcc251e",
+    "tests/test_stream.py": "17700cbf30bb5e3875d430cc3f68ab96d4c9104ee8554b526dc794c79fb24129"
+  }
+}
