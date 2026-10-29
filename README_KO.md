@@ -1,7 +1,9 @@
 # 한국어 발화 종료 감지 평가 · EOT 리더보드
 
-김지훈 · 202220760  
-개인 저장소: [gimghoon/speech_leaderboard](https://github.com/gimghoon/speech_leaderboard)
+김지훈 · 202220760
+
+- 개인 저장소: [gimghoon/speech_leaderboard](https://github.com/gimghoon/speech_leaderboard)
+- 리더보드 사이트: [EOT Bench](https://gimghoon.github.io/speech_leaderboard/?v=26b37b0)
 
 한국어 음성의 발화가 끝났는지 판단하는 세 베이스라인을 같은 연속 입력 조건에서 비교합니다. 실제 평가한 **160개 음원·160개 EOT·91개 HOLD**, 베이스라인 코드, 평가 코드, 동결 정책과 턴별 결과를 이 저장소에서 함께 확인하고 재현할 수 있습니다. 별도 학습 데이터는 사용하지 않았습니다.
 
